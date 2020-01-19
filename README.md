@@ -10,8 +10,8 @@
 
     IP Webcam for android has these urls :
 
-    - http://<your-ip>:8080/photo.jpg     Takes a regular snap from the video
-    - http://<your-ip>:8080/photoaf.jpg   This one focuses first, then snaps the frame (slower)
+    - http://<your-ip>:8080/photo.jpg     Takes a regular photo with the camera
+    - http://<your-ip>:8080/photoaf.jpg   This one focuses first, then takes the photo (slower)
     - http://<your-ip>:8080/shot.jpg      Grabs latest frame from video feed, with overlays etc
 
     - Download IP Webcam for android : https://play.google.com/store/apps/details?id=com.pas.webcam&hl=en
